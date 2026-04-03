@@ -3,7 +3,7 @@ In the reposetory will be different recepts.
 Base:
 System - Ubuntu20.04.06lts
 System - Ubuntu22.04.05lts
-System - Ubuntu24.04.01lts
+System - Ubuntu24.04.02lts
 Programming environment - Python3.8.10.2.12
 Programming environment - Python3.9.5.3
 Programming environment - Python3.10.12.2
